@@ -1,0 +1,90 @@
+ul{
+    list-style-type: none; 
+}
+
+.runes{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(165, 37, 14);
+}
+
+
+header{
+    text-align: center;
+}
+
+main{
+    text-align: center;
+    background-color: rgb(136, 124, 19);
+    padding: 15px;
+}
+
+main > section { 
+    background-color: rgb(24, 3, 43);
+    padding: 10px;
+}
+
+main > article {
+    background-color: rgb(22, 3, 44);
+}
+
+footer{
+    background-color:rgb(21, 5, 59) ;
+    padding: 10px;
+    display: block;
+    
+}
+
+header{
+    background-color:rgb(27, 4, 68) ;
+    padding: 10px;
+    
+}
+
+footer > p > a {
+    color: rgb(159, 79, 233);
+    
+}
+
+header > h1 {
+    display: inline;
+      font-size: 40px;
+  font-weight: 300;
+}
+
+button{
+    background-color: rgb(85, 71, 7);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+width: 50px;
+height: 30px;
+}
+
+main > section > h2 {
+    letter-spacing: 5px;
+    font-size: 35px;
+}
+
+.aett {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 50px;
+    font-weight: 100;
+}
+
+p{
+    line-height: 25px;
+}
+nav > ul > li {
+    display: inline-block;
+    width: 70px;
+}
+nav > ul > li > a {
+    text-decoration: none;
+}
+main > article > ul > li {
+    display: inline;
+    margin: 2px;
+}
+
+h4{
+    font-size: 25px;
+}

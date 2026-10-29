@@ -33,9 +33,7 @@ header{
 
 
 
-.img{
-    text-align: center;
-}
+
 
 main{
   background-color: rgb(112, 87, 17);
@@ -48,9 +46,6 @@ section{
     text-align: center;
 }
 
-.expl{
-    text-align: center;
-}
 
 .wands{
     color: rgb(182, 61, 61);
