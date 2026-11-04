@@ -69,5 +69,13 @@ ul{
     
 }
 
+nav > ul > li {
+    display: inline-block;
+    width: 70px;
+}
+nav > ul > li > a {
+    text-decoration: none;
+}
+
 
 
